@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Translation</string>
+    <string name="chinese">中文</string>
+    <string name="english">英语</string>
+    <string name="inputC">输入文字</string>
+    <string name="inputE">Enter Text</string>
+</resources>
